@@ -41,6 +41,10 @@
 
 ---
 
+<img width="1024" height="982" alt="image" src="https://github.com/user-attachments/assets/f172fc96-6a0e-47a3-b0f6-3cf42de1c270" />
+
+---
+
 ## 🏗️ Protocol Architecture
 
 The project utilizes three primary communication layers:
