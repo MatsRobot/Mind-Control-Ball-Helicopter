@@ -91,6 +91,7 @@ The project utilizes three primary communication layers:
 - **Meditation Tracking:** Secondary data stream used for analog visual monitoring on pins 5 and 6.
 - **Failsafe System:** Hardware LEDs indicate signal quality to ensure control is only active during valid EEG reception.
 
+
 ---
 
-<small>© 2026 MatsRobot | Project based on Arduino Bluetooth Interface with Mindwave</small>
+<small>© 2026 MatsRobot | Licensed under the [MIT License](https://github.com/MatsRobot/matsrobot.github.io/blob/main/LICENSE)</small>
